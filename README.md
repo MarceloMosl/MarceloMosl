@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarceloMosl
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning HTML5, JavaScript, Python, CSS
+- 🌱 I’m currently learning HTML5, JavaScript, NODE JS, CSS, REACT
 - 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me @marcelomosl on IG or Marcelomosl@icloud.com 
 
