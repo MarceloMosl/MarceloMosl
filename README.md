@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @MarceloMosl
-- 👀 I’m interested in Coding
 - 🌱 I’m currently learning HTML5, JavaScript, NODE JS, CSS, REACT
 - 💞️ I’m looking to collaborate on literally anything
 - 📫 How to reach me @marcelomosl on IG or Marcelomosl@icloud.com 
-
-<!---
-MarceloMosl/MarceloMosl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- <div>
+<a href="https://github.com/MarceloMosl"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloMosl&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&disable_animations=false"/>
+  </div>
